@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/florida-ma
 name: Florida Man
 description: "Static JSON dataset of 10,000+ Florida Man headlines by date"
 url: https://github.com/juliayxhuang/florida-man-api#readme
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
