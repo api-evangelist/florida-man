@@ -39,7 +39,6 @@ apis:
   - name: Florida Man
     description: "Static JSON dataset of 10,000+ Florida Man headlines by date"
     humanURL: https://github.com/juliayxhuang/florida-man-api#readme
-    baseURL: https://github.com/juliayxhuang/florida-man-api#readme
     tags:
       - News
     properties:
